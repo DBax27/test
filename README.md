@@ -6,6 +6,7 @@
 
 **Bold Text**
 *Italic Text*
+_test_
 
 [Link Text](https://example.com)
 
@@ -24,4 +25,7 @@ def hello():
 ```
 
 --- (three dashes) to add horizontal lines
+
+---
+
 
